@@ -1,0 +1,1 @@
+{"level":"info","message":"Sun Apr 21 2024 20:54:48 GMT+0530 (India Standard Time)\r\nreq URL: /api/otp/send\r\n req Body: {\"email\":\"Dhairya.jan9@gmail.com\"}","service":"request-logging"}
